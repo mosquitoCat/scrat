@@ -6,7 +6,7 @@ To install the package from GitHub use the following commands in R:
 install.packages("devtools")
 
 library(devtools)
-install_github("hloefflerwirth/scrat")
+install_github("mosquitoCat/scrat")
 ```
 
 
